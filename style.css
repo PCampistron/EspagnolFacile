@@ -1,0 +1,44 @@
+header{
+	background-color: #010B14;
+}
+
+body{
+    background-color: #011627;
+}
+h1{
+    position:relative;
+    text-align: center;
+    color: #ebebeb;
+}
+
+nav{
+  height: 1000px;
+  background-color: #010B14;
+}
+
+.titre_sup {
+	color : #F22B29
+}
+.titre_inf {
+	color : #FFBC0A
+}
+
+.vertical-menu {
+    width: 200px; /* met un largeur si tu aime */
+}
+  
+.vertical-menu a {
+  background-color: #768189; /* gris arrière-plan couleur */
+  margin-bottom: 12px;
+  color: white; /* noir texte couleur */
+  text-align: center;
+  display: block; /* Fais le liens apparaitre en desous chaque autre */
+  padding: 10px; /* ajouter un peu d'espacement */
+  text-decoration: none; /* retirer sous-ligne de liens */
+}
+
+#menu-vertical a {
+  display:block;
+  text-decoration: none;
+  color: #000;
+}
